@@ -22,7 +22,7 @@ Once you have cloned the repository, navigate to the project directory and insta
 Npm i
 
 ```
-#Usage
+# Usage
 
 This will start the development server and open the Metro Bundler in your default web browser. You can use this web interface to run your React Native application in an iOS or Android simulator.
 
@@ -31,25 +31,25 @@ To run your React Native application in an iOS simulator, you can use the follow
 Npm run ios
 
 ```
-#android
+# Android
 ```
 Npm run android
 
 ```
 
-#expo start 
+# expo start 
 ```
 Npm expo start
 
 ```
 
-#Configuration
+# Configuration
 React-Native-Start-Layout comes with pre-configured constants and Tailwind styles that you can use in your React Native application. These constants and styles are located in the src/styles directory.
 
 You can modify the constants and styles in this directory to customize the appearance of your React Native application.
 
-#Contributing
+# Contributing
 If you find any issues or have suggestions for how to improve React-Native-Start-Layout, please open an issue or submit a pull request on GitHub. Contributions of all kinds are welcome and appreciated!
 
-#License
+# License
 React-Native-Start-Layout is licensed under the MIT License. See the LICENSE file for more information.
